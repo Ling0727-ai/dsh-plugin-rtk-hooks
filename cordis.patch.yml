@@ -1,0 +1,7 @@
+- insert:
+    - id: rtk-hooks
+      name: dsh-plugin-rtk-hooks
+      config:
+        denyOnMiss: true
+        filterOutput: false
+        maxDenialsPerCommand: 3
